@@ -1,5 +1,10 @@
 # 微服务架构演进示例:see_no_evil:
 
+## Tips 更多关于对系统演进的理解
+*构建可靠的大型分布式系统
+ [从架构演进、架构甚础、分布式甚石、基础没施、技术方法论五个维度，带你了解如何构建一套可靠的分布式大型软件系统](https://icyfenix.cn/introduction/about-book.html)*
+
+
 <a name="jxfn-1641521709530"></a><a name="3iwd-1641521710719"></a>**互联网架构演进**
 
 ![截图.png](assets/Aspose.Words.e12bb904-5d25-4bad-89a3-02c85268c1fe.001.png)
